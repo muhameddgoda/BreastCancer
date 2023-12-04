@@ -32,5 +32,3 @@ To run the code, you'll need:
 ## Acknowledgments
 
 The code in this repository is part of a project to classify breast cancer tumors. It uses data from the sklearn.datasets module and TensorFlow/Keras for building a neural network model.
-
-For any questions or issues, feel free to contact [your_email@example.com].
